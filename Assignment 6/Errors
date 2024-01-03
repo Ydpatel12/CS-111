@@ -1,0 +1,41 @@
+37.7/50 for this assignment.
+
+Errors:
+
+Test 58: use the output of oneMonthForecast(4100, 1, -122.89, 46.43) to test lengthOfLongestSpell(forecast, 1); using StdRandom.setSeed(1636157264239L); before generating forecast - failed : longest WET spell expected is 11 days. add_commentComment
+
+Test 59: use the output of oneMonthForecast(4100, 1, -103.51, 40.26) to test lengthOfLongestSpell(forecast, 1); using StdRandom.setSeed(1636157264582L); before generating forecast - failed : longest WET spell expected is 9 days. add_commentComment
+
+Test 60: use the output of oneMonthForecast(4100, 1, -91.57, 31.89) to test lengthOfLongestSpell(forecast, 2); using StdRandom.setSeed(1636157264868L); before generating forecast - failed : longest DRY spell expected is 1 days. add_commentComment
+
+Test 61: use the output of oneMonthForecast(4100, 5, -98.27, 39.35) to test lengthOfLongestSpell(forecast, 1); using StdRandom.setSeed(1636157265155L); before generating forecast - failed : longest WET spell expected is 8 days. add_commentComment
+
+Test 62: use the output of oneMonthForecast(4100, 2, -109.75, 34.7) to test lengthOfLongestSpell(forecast, 2); using StdRandom.setSeed(1636157265418L); before generating forecast - failed : longest DRY spell expected is 5 days. add_commentComment
+
+Test 63: use the output of oneMonthForecast(4100, 3, -75.45, 42.42) to test lengthOfLongestSpell(forecast, 2); using StdRandom.setSeed(1636157265688L); before generating forecast - failed : longest DRY spell expected is 3 days. add_commentComment
+
+Test 64: use the output of oneMonthForecast(4100, 4, -81.54, 35.71) to test lengthOfLongestSpell(forecast, 1); using StdRandom.setSeed(1636157265957L); before generating forecast - failed : longest WET spell expected is 5 days. add_commentComment
+
+Test 65: use the output of oneMonthForecast(4100, 11, -110.97, 42.1) to test lengthOfLongestSpell(forecast, 2); using StdRandom.setSeed(1636157266217L); before generating forecast - failed : longest DRY spell expected is 6 days. add_commentComment
+
+Test 67: use the output of oneMonthForecast(4100, 1, -87.02, 30.62) to test lengthOfLongestSpell(forecast, 2); using StdRandom.setSeed(1636157266745L); before generating forecast - failed : longest DRY spell expected is 9 days. add_commentComment
+
+Test 68: use the output of oneMonthForecast(4100, 10, -103.62, 31.05) to test bestWeekToTravel(forecast); using StdRandom.setSeed(1636157267014L); before generating forecast - failed : Best week to travel is expected to start at # 2 day. add_commentComment
+
+Test 69: use the output of oneMonthForecast(4100, 5, -89.67, 35.87) to test bestWeekToTravel(forecast); using StdRandom.setSeed(1636157267279L); before generating forecast - failed : Best week to travel is expected to start at # 16 day. add_commentComment
+
+Test 70: use the output of oneMonthForecast(4100, 2, -114.59, 41.33) to test bestWeekToTravel(forecast); using StdRandom.setSeed(1636157267552L); before generating forecast - failed : Best week to travel is expected to start at # 2 day. add_commentComment
+
+Test 71: use the output of oneMonthForecast(4100, 6, -101.1, 36.9) to test bestWeekToTravel(forecast); using StdRandom.setSeed(1636157267816L); before generating forecast - failed : Best week to travel is expected to start at # 6 day. add_commentComment
+
+Test 72: use the output of oneMonthForecast(4100, 3, -112.76, 40.91) to test bestWeekToTravel(forecast); using StdRandom.setSeed(1636157268075L); before generating forecast - failed : Best week to travel is expected to start at # 2 day. add_commentComment
+
+Test 73: use the output of oneMonthForecast(4100, 2, -84.92, 43.25) to test bestWeekToTravel(forecast); using StdRandom.setSeed(1636157268360L); before generating forecast - failed : Best week to travel is expected to start at # 18 day. add_commentComment
+
+Test 74: use the output of oneMonthForecast(4100, 0, -114.75, 41.71) to test bestWeekToTravel(forecast); using StdRandom.setSeed(1636157268623L); before generating forecast - failed : Best week to travel is expected to start at # 17 day. add_commentComment
+
+Test 75: use the output of oneMonthForecast(4100, 8, -100.48, 48.25) to test bestWeekToTravel(forecast); using StdRandom.setSeed(1636157268988L); before generating forecast - failed : Best week to travel is expected to start at # 3 day. add_commentComment
+
+Test 76: use the output of oneMonthForecast(4100, 8, -101.4, 30.13) to test bestWeekToTravel(forecast); using StdRandom.setSeed(1636157269271L); before generating forecast - failed : Best week to travel is expected to start at # 1 day. add_commentComment
+
+Test 77: use the output of oneMonthForecast(4100, 5, -106.5, 39.54) to test bestWeekToTravel(forecast); using StdRandom.setSeed(1636157269548L); before generating forecast - failed : Best week to travel is expected to start at # 19 day. add_commentComment
